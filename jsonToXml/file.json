@@ -1,0 +1,7 @@
+`<ApiExceptionResponse>`,
+`    <timestamp>2024-07-10T13:47:02.486Z</timestamp>`,
+`    <status>504</status>`,
+`    <error>Fetching Whois Data Failed</error>`,
+`    <message>Request is timed-out. [For Technical Support email at: support@whoisfreaks.com]</message>`,
+`    <path>/v1.0/ssl/live</path>`,
+`</ApiExceptionResponse>`,

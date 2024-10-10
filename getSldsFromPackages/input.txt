@@ -1,0 +1,1135 @@
+classesPackage.put("v.ua", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("v.uaserver", "whois.pp.ua");
+
+classesPackage.put("cc.ua", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("cc.uaserver", "whois.pp.ua");
+
+classesPackage.put("ie.ua", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("ie.uaserver", "whois.pp.ua");
+
+classesPackage.put("ltd.ua", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("ltd.uaserver", "whois.pp.ua");
+
+classesPackage.put("cx.ua", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("cx.uaserver", "whois.pp.ua");
+
+classesPackage.put("lolipop.io", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("lolipop.ioserver", "whois.nic.io");
+
+classesPackage.put("hzc.io", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("hzc.ioserver", "whois.nic.io");
+
+classesPackage.put("apigee.io", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("apigee.ioserver", "whois.nic.io");
+
+classesPackage.put("myrdbx.io", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("myrdbx.ioserver", "whois.nic.io");
+
+classesPackage.put("gitlab.io", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("gitlab.ioserver", "whois.nic.io");
+
+classesPackage.put("jele.io", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("jele.ioserver", "whois.nic.io");
+
+classesPackage.put("b-data.io", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("b-data.ioserver", "whois.nic.io");
+
+classesPackage.put("cleverapps.io", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("cleverapps.ioserver", "whois.nic.io");
+
+classesPackage.put("basicserver.io", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("basicserver.ioserver", "whois.nic.io");
+
+classesPackage.put("azurecontainer.io", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("azurecontainer.ioserver", "whois.nic.io");
+
+classesPackage.put("wixstudio.io", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("wixstudio.ioserver", "whois.nic.io");
+
+classesPackage.put("definima.io", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("definima.ioserver", "whois.nic.io");
+
+classesPackage.put("browsersafetymark.io", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("browsersafetymark.ioserver", "whois.nic.io");
+
+classesPackage.put("sandcats.io", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("sandcats.ioserver", "whois.nic.io");
+
+classesPackage.put("virtualserver.io", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("virtualserver.ioserver", "whois.nic.io");
+
+classesPackage.put("readthedocs.io", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("readthedocs.ioserver", "whois.nic.io");
+
+classesPackage.put("edugit.io", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("edugit.ioserver", "whois.nic.io");
+
+classesPackage.put("upli.io", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("upli.ioserver", "whois.nic.io");
+
+classesPackage.put("ngrok.io", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("ngrok.ioserver", "whois.nic.io");
+
+classesPackage.put("on-rio.io", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("on-rio.ioserver", "whois.nic.io");
+
+classesPackage.put("editorx.io", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("editorx.ioserver", "whois.nic.io");
+classesPackage.put("blogspot.mx", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("blogspot.mxserver", "whois.mx");
+
+classesPackage.put("kep.tr", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("kep.trserver", "whois.nic.tr");
+
+classesPackage.put("nc.tr", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("nc.trserver", "whois.nic.tr");
+classesPackage.put("gov.lv", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("gov.lvserver", "whois.nic.lv");
+classesPackage.put("radio.am", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+
+classesPackage.put("now.sh", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("now.shserver", "whois.nic.sh");
+
+classesPackage.put("bip.sh", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("bip.shserver", "whois.nic.sh");
+
+classesPackage.put("gv.vc", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("gv.vcserver", "whois2.afilias-grs.net");
+
+
+classesPackage.put("forms.ac", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("forms.acserver", "whois.nic.ac");
+
+classesPackage.put("drr.ac", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("drr.acserver", "whois.nic.ac");
+classesPackage.put("16-b.it", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("16-b.itserver", "whois.nic.it");
+
+
+classesPackage.put("diskstation.eu", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("diskstation.euserver", "https://whois.eurid.eu");
+
+classesPackage.put("blogspot.lt", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("blogspot.ltserver","whois.domreg.lt");
+classesPackage.put("craft.me", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("craft.meserver","whois.nic.me");
+
+classesPackage.put("ddns.me", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("ddns.meserver","whois.nic.me");
+
+classesPackage.put("noip.me", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("noip.meserver","whois.nic.me");
+
+classesPackage.put("diskstation.me", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("diskstation.meserver","whois.nic.me");
+
+classesPackage.put("dscloud.me", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("dscloud.meserver","whois.nic.me");
+
+classesPackage.put("glitch.me", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("glitch.meserver","whois.nic.me");
+
+classesPackage.put("myds.me", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("myds.meserver","whois.nic.me");
+
+classesPackage.put("webhop.me", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("webhop.meserver","whois.nic.me");
+
+classesPackage.put("mcpe.me", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("mcpe.meserver","whois.nic.me");
+
+classesPackage.put("dnsfor.me", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("dnsfor.meserver","whois.nic.me");
+classesPackage.put("blogspot.tw", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("blogspot.twserver","whois.twnic.net.tw");
+
+classesPackage.put("url.tw", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("url.twserver","whois.twnic.net.tw");
+
+classesPackage.put("is-a-patsfan.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("is-a-patsfan.orgserver", "whois.pir.org");
+
+classesPackage.put("is-a-celticsfan.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("is-a-celticsfan.orgserver", "whois.pir.org");
+
+classesPackage.put("is-a-candidate.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("is-a-candidate.orgserver", "whois.pir.org");
+
+classesPackage.put("is-lost.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("is-lost.orgserver", "whois.pir.org");
+
+classesPackage.put("is-local.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("is-local.orgserver", "whois.pir.org");
+
+classesPackage.put("is-found.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("is-found.orgserver", "whois.pir.org");
+
+classesPackage.put("homeunix.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("homeunix.orgserver", "whois.pir.org");
+
+classesPackage.put("homelinux.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("homelinux.orgserver", "whois.pir.org");
+
+classesPackage.put("js.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("js.orgserver", "whois.pir.org");
+
+classesPackage.put("dyndns.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("dyndns.orgserver", "whois.pir.org");
+
+classesPackage.put("small-web.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("small-web.orgserver", "whois.pir.org");
+
+classesPackage.put("selfip.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("selfip.orgserver", "whois.pir.org");
+
+classesPackage.put("poivron.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("poivron.orgserver", "whois.pir.org");
+
+classesPackage.put("podzone.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("podzone.orgserver", "whois.pir.org");
+
+classesPackage.put("gotdns.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("gotdns.orgserver", "whois.pir.org");
+
+classesPackage.put("dynalias.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("dynalias.orgserver", "whois.pir.org");
+
+classesPackage.put("myftp.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("myftp.orgserver", "whois.pir.org");
+
+classesPackage.put("ddnss.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("ddnss.orgserver", "whois.pir.org");
+
+classesPackage.put("pubtls.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("pubtls.orgserver", "whois.pir.org");
+
+classesPackage.put("webredirect.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("webredirect.orgserver", "whois.pir.org");
+
+classesPackage.put("mozilla-iot.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("mozilla-iot.orgserver", "whois.pir.org");
+
+classesPackage.put("no-ip.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("no-ip.orgserver", "whois.pir.org");
+
+classesPackage.put("blogsite.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("blogsite.orgserver", "whois.pir.org");
+
+classesPackage.put("webhop.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("webhop.orgserver", "whois.pir.org");
+
+classesPackage.put("in-vpn.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("in-vpn.orgserver", "whois.pir.org");
+
+classesPackage.put("read-books.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("read-books.orgserver", "whois.pir.org");
+
+classesPackage.put("spdns.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("spdns.orgserver", "whois.pir.org");
+
+classesPackage.put("jpn.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("jpn.orgserver", "whois.pir.org");
+
+classesPackage.put("sweetpepper.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("sweetpepper.orgserver", "whois.pir.org");
+
+classesPackage.put("homeftp.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("homeftp.orgserver", "whois.pir.org");
+
+classesPackage.put("pimenta.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("pimenta.orgserver", "whois.pir.org");
+
+classesPackage.put("homedns.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("homedns.orgserver", "whois.pir.org");
+
+classesPackage.put("routingthecloud.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("routingthecloud.orgserver", "whois.pir.org");
+
+classesPackage.put("bmoattachments.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("bmoattachments.orgserver", "whois.pir.org");
+
+classesPackage.put("is-a-soxfan.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("is-a-soxfan.orgserver", "whois.pir.org");
+
+classesPackage.put("stuff-4-sale.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("stuff-4-sale.orgserver", "whois.pir.org");
+
+classesPackage.put("accesscam.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("accesscam.orgserver", "whois.pir.org");
+
+classesPackage.put("httpbin.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("httpbin.orgserver", "whois.pir.org");
+
+classesPackage.put("collegefan.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("collegefan.orgserver", "whois.pir.org");
+
+classesPackage.put("familyds.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("familyds.orgserver", "whois.pir.org");
+
+classesPackage.put("sellsyourhome.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("sellsyourhome.orgserver", "whois.pir.org");
+
+classesPackage.put("diskstation.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("diskstation.orgserver", "whois.pir.org");
+
+classesPackage.put("mlbfan.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("mlbfan.orgserver", "whois.pir.org");
+
+classesPackage.put("misconfused.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("misconfused.orgserver", "whois.pir.org");
+
+classesPackage.put("hepforge.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("hepforge.orgserver", "whois.pir.org");
+
+classesPackage.put("dsmynas.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("dsmynas.orgserver", "whois.pir.org");
+
+classesPackage.put("cloudns.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("cloudns.orgserver", "whois.pir.org");
+
+classesPackage.put("altervista.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("altervista.orgserver", "whois.pir.org");
+
+classesPackage.put("servegame.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("servegame.orgserver", "whois.pir.org");
+
+classesPackage.put("kick-ass.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("kick-ass.orgserver", "whois.pir.org");
+
+classesPackage.put("camdvr.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("camdvr.orgserver", "whois.pir.org");
+
+classesPackage.put("cabel-modem.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("cabel-modem.orgserver", "whois.pir.org");
+
+classesPackage.put("is-a-knight.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("is-a-knight.orgserver", "whois.pir.org");
+
+classesPackage.put("is-very-evil.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("is-very-evil.orgserver", "whois.pir.org");
+
+classesPackage.put("is-very-sweet.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("is-very-sweet.orgserver", "whois.pir.org");
+
+classesPackage.put("is-very-good.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("is-very-good.orgserver", "whois.pir.org");
+
+classesPackage.put("from-me.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("from-me.orgserver", "whois.pir.org");
+
+classesPackage.put("isa-geek.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("isa-geek.orgserver", "whois.pir.org");
+
+classesPackage.put("is-a-chef.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("is-a-chef.orgserver", "whois.pir.org");
+
+classesPackage.put("is-a-bruinsfan.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("is-a-bruinsfan.orgserver", "whois.pir.org");
+
+classesPackage.put("dnsdojo.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("dnsdojo.orgserver", "whois.pir.org");
+
+classesPackage.put("zapto.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("zapto.orgserver", "whois.pir.org");
+
+classesPackage.put("potager.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("potager.orgserver", "whois.pir.org");
+
+classesPackage.put("wmflabs.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("wmflabs.orgserver", "whois.pir.org");
+
+classesPackage.put("wmcloud.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("wmcloud.orgserver", "whois.pir.org");
+
+classesPackage.put("serveftp.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("serveftp.orgserver", "whois.pir.org");
+
+classesPackage.put("mayfirst.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("mayfirst.orgserver", "whois.pir.org");
+
+classesPackage.put("blogdns.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("blogdns.orgserver", "whois.pir.org");
+
+classesPackage.put("mysecuritycamera.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("mysecuritycamera.orgserver", "whois.pir.org");
+
+classesPackage.put("is-a-linux-user.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("is-a-linux-user.orgserver", "whois.pir.org");
+
+classesPackage.put("tuxfamily.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("tuxfamily.orgserver", "whois.pir.org");
+
+classesPackage.put("certmgr.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("certmgr.orgserver", "whois.pir.org");
+
+classesPackage.put("barsy.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("barsy.orgserver", "whois.pir.org");
+
+classesPackage.put("ae.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("ae.orgserver", "whois.pir.org");
+
+classesPackage.put("hopto.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("hopto.orgserver", "whois.pir.org");
+
+classesPackage.put("hatenadiary.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("hatenadiary.orgserver", "whois.pir.org");
+
+classesPackage.put("ufcfan.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("ufcfan.orgserver", "whois.pir.org");
+
+classesPackage.put("freedesktop.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("freedesktop.orgserver", "whois.pir.org");
+
+classesPackage.put("doomdns.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("doomdns.orgserver", "whois.pir.org");
+
+classesPackage.put("endoftheinternet.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("endoftheinternet.orgserver", "whois.pir.org");
+
+classesPackage.put("dynserv.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("dynserv.orgserver", "whois.pir.org");
+
+classesPackage.put("freeddns.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("freeddns.orgserver", "whois.pir.org");
+
+classesPackage.put("dvrdns.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("dvrdns.orgserver", "whois.pir.org");
+
+classesPackage.put("fedorainfracloud.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("fedorainfracloud.orgserver", "whois.pir.org");
+
+classesPackage.put("fedorapeople.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("fedorapeople.orgserver", "whois.pir.org");
+
+classesPackage.put("dnsalias.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("dnsalias.orgserver", "whois.pir.org");
+
+classesPackage.put("in-dsl.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("in-dsl.orgserver", "whois.pir.org");
+
+classesPackage.put("doesntexist.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("doesntexist.orgserver", "whois.pir.org");
+
+classesPackage.put("is-saved.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("is-saved.orgserver", "whois.pir.org");
+
+classesPackage.put("endofinternet.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("endofinternet.orgserver", "whois.pir.org");
+
+classesPackage.put("servebbs.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("servebbs.orgserver", "whois.pir.org");
+
+classesPackage.put("dontexist.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("dontexist.orgserver", "whois.pir.org");
+
+classesPackage.put("readmyblog.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("readmyblog.orgserver", "whois.pir.org");
+
+classesPackage.put("couchpotatofries.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("couchpotatofries.orgserver", "whois.pir.org");
+
+classesPackage.put("game-host.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("game-host.orgserver", "whois.pir.org");
+
+classesPackage.put("nflfan.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("nflfan.orgserver", "whois.pir.org");
+
+classesPackage.put("myfirewall.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("myfirewall.orgserver", "whois.pir.org");
+
+classesPackage.put("my-firewall.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("my-firewall.orgserver", "whois.pir.org");
+
+classesPackage.put("mywire.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("mywire.orgserver", "whois.pir.org");
+
+classesPackage.put("now-dns.org.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("now-dns.orgserver", "whois.pir.org");
+
+classesPackage.put("hobby-site.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("hobby-site.orgserver", "whois.pir.org");
+
+classesPackage.put("is-very-bad.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("is-very-bad.orgserver", "whois.pir.org");
+
+classesPackage.put("tunk.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("tunk.orgserver", "whois.pir.org");
+
+classesPackage.put("hk.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("hk.orgserver", "whois.pir.org");
+
+classesPackage.put("is-very-nice.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("is-very-nice.orgserver", "whois.pir.org");
+
+classesPackage.put("deta.dev", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("deta.devserver", "whois.nic.google");
+
+classesPackage.put("panel.dev", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("panel.devserver", "whois.nic.google");
+
+classesPackage.put("modx.dev", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("modx.devserver", "whois.nic.google");
+
+classesPackage.put("fly.dev", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("fly.devserver", "whois.nic.google");
+
+classesPackage.put("shiftcrypto.dev", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("shiftcrypto.devserver", "whois.nic.google");
+
+classesPackage.put("iserv.dev", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("iserv.devserver", "whois.nic.google");
+
+classesPackage.put("stg.dev", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("stg.devserver", "whois.nic.google");
+
+classesPackage.put("mediatech.dev", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("mediatech.devserver", "whois.nic.google");
+
+classesPackage.put("is-cool.dev", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("is-cool.devserver", "whois.nic.google");
+
+classesPackage.put("is-a-fullstack.dev", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("is-a-fullstack.devserver", "whois.nic.google");
+
+classesPackage.put("webhare.dev", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("webhare.devserver", "whois.nic.google");
+
+classesPackage.put("ngrok.dev", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("ngrok.devserver", "whois.nic.google");
+
+classesPackage.put("replit.dev", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("replit.devserver", "whois.nic.google");
+
+classesPackage.put("stgstage.dev", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("stgstage.devserver", "whois.nic.google");
+
+classesPackage.put("r2.dev", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("r2.devserver", "whois.nic.google");
+
+classesPackage.put("loginline.dev", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("loginline.devserver", "whois.nic.google");
+
+classesPackage.put("deno.dev", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("deno.devserver", "whois.nic.google");
+
+classesPackage.put("autocode.dev", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("autocode.devserver", "whois.nic.google");
+
+classesPackage.put("gateway.dev", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("gateway.devserver", "whois.nic.google");
+
+classesPackage.put("curv.dev", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("curv.devserver", "whois.nic.google");
+
+classesPackage.put("barsy.dev", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("barsy.devserver", "whois.nic.google");
+
+classesPackage.put("12chars.dev", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("12chars.devserver", "whois.nic.google");
+
+classesPackage.put("is-a-good.dev", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("is-a-good.devserver", "whois.nic.google");
+
+classesPackage.put("is-a.dev", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("is-a.devserver", "whois.nic.google");
+
+classesPackage.put("is-not-a.dev", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("is-not-a.devserver", "whois.nic.google");
+
+classesPackage.put("workers.dev", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("workers.devserver", "whois.nic.google");
+
+classesPackage.put("vercel.dev", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("vercel.devserver", "whois.nic.google");
+
+classesPackage.put("platter-app.dev", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("platter-app.devserver", "whois.nic.google");
+
+classesPackage.put("xmit.dev", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("xmit.devserver", "whois.nic.google");
+
+classesPackage.put("localplayer.dev", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("localplayer.devserver", "whois.nic.google");
+
+classesPackage.put("ngrok-free.dev", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("ngrok-free.devserver", "whois.nic.google");
+
+classesPackage.put("lclstage.dev", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("lclstage.devserver", "whois.nic.google");
+
+classesPackage.put("githubpreview.dev", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("githubpreview.devserver", "whois.nic.google");
+
+classesPackage.put("runcontainers.dev", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("runcontainers.devserver", "whois.nic.google");
+
+classesPackage.put("lcl.dev", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("lcl.devserver", "whois.nic.google");
+
+classesPackage.put("deno-staging.dev", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("deno-staging.devserver", "whois.nic.google");
+classesPackage.put("aem.live", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("aem.liveserver", "whois.nic.live");
+
+classesPackage.put("hlx.live", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("hlx.liveserver", "whois.nic.live");
+
+classesPackage.put("ewp.live", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("ewp.liveserver", "whois.nic.live");
+
+classesPackage.put("barsy.mobi", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("barsy.mobiserver", "whois.nic.mobi");
+
+classesPackage.put("dscloud.mobi", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("dscloud.mobiserver", "whois.nic.mobi");
+classesPackage.put("barsyonline.shop", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("barsyonline.shopserver", "whois.nic.shop");
+
+classesPackage.put("base.shop", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("base.shopserver", "whois.nic.shop");
+
+classesPackage.put("barsy.shop", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("barsy.shopserver", "whois.nic.shop");
+
+classesPackage.put("hoplix.shop", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("hoplix.shopserver", "whois.nic.shop");
+classesPackage.put("stackit.rocks", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("stackit.rocksserver", "whois.nic.rocks");
+
+classesPackage.put("myddns.rocks", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("myddns.rocksserver", "whois.nic.rocks");
+
+classesPackage.put("lima-city.rocks", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("lima-city.rocksserver", "whois.nic.rocks");
+
+classesPackage.put("webspace.rocks", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("webspace.rocksserver", "whois.nic.rocks");
+classesPackage.put("prequalifyme.today", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("prequalifyme.todayserver", "whois.nic.today");
+
+classesPackage.put("diher.solutions", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("diher.solutionsserver", "whois.nic.solutions");
+classesPackage.put("discourse.group", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("discourse.groupserver", "whois.nic.group");
+
+classesPackage.put("noticeable.news", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("noticeable.newsserver", "whois.nic.news");
+
+classesPackage.put("loginline.services", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("loginline.servicesserver", "whois.nic.services");
+
+classesPackage.put("co.network", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("co.networkserver", "whois.nic.network");
+
+classesPackage.put("azimuth.network", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("azimuth.networkserver", "whois.nic.network");
+
+classesPackage.put("alces.network", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("alces.networkserver", "whois.nic.network");
+
+classesPackage.put("tlon.network", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("tlon.networkserver", "whois.nic.network");
+
+classesPackage.put("arvo.network", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("arvo.networkserver", "whois.nic.network");
+
+classesPackage.put("framer.media", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("framer.mediaserver", "whois.nic.media");
+
+classesPackage.put("cloudapps.digital", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("cloudapps.digitalserver", "whois.nic.digital");
+
+classesPackage.put("co.business", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("co.businessserver", "whois.nic.business");
+
+classesPackage.put("official.academy", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("official.academyserver", "whois.nic.academy");
+
+
+classesPackage.put("co.technology", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("co.technologyserver", "whois.nic.technology");
+
+classesPackage.put("knightpoint.systems", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("knightpoint.systemsserver", "whois.nic.systems");
+
+classesPackage.put("discourse.team", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("discourse.teamserver", "whois.nic.team");
+
+classesPackage.put("jelastic.team", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("jelastic.teamserver", "whois.nic.team");
+
+classesPackage.put("lima.zone", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("lima.zoneserver", "whois.nic.zone");
+
+classesPackage.put("triton.zone", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("triton.zoneserver", "whois.nic.zone");
+
+classesPackage.put("stackit.zone", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("stackit.zoneserver", "whois.nic.zone");
+
+classesPackage.put("cloud66.zone", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("cloud66.zoneserver", "whois.nic.zone");
+
+classesPackage.put("hs.zone", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("hs.zoneserver", "whois.nic.zone");
+
+classesPackage.put("koobin.events", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("koobin.eventsserver", "whois.nic.events");
+
+classesPackage.put("co.events", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("co.eventsserver", "whois.nic.events");
+
+classesPackage.put("barsy.pub", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("barsy.pubserver", "whois.nic.pub");
+
+classesPackage.put("kin.pub", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("kin.pubserver", "whois.nic.pub");
+
+classesPackage.put("id.pub", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("id.pubserver", "whois.nic.pub");
+
+classesPackage.put("co.education", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("co.educationserver", "whois.nic.education");
+
+classesPackage.put("barsy.support", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("barsy.supportserver", "whois.nic.support");
+
+classesPackage.put("framer.photos", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("framer.photosserver", "whois.nic.photos");
+
+classesPackage.put("de.cool", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("de.coolserver", "whois.nic.cool");
+
+classesPackage.put("elementor.cool", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("elementor.coolserver", "whois.nic.cool");
+
+classesPackage.put("sheezy.games", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("sheezy.gamesserver", "whois.nic.games");
+
+classesPackage.put("pley.games", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("pley.gamesserver", "whois.nic.games");
+
+classesPackage.put("ravendb.run", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("ravendb.runserver", "whois.nic.run");
+
+classesPackage.put("onporter.run", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("onporter.runserver", "whois.nic.run");
+
+classesPackage.put("wix.run", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("wix.runserver", "whois.nic.run");
+
+classesPackage.put("database.run", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("database.runserver", "whois.nic.run");
+
+classesPackage.put("code.run", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("code.runserver", "whois.nic.run");
+
+classesPackage.put("build.run", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("build.runserver", "whois.nic.run");
+
+classesPackage.put("hs.run", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("hs.runserver", "whois.nic.run");
+
+classesPackage.put("repl.run", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("repl.runserver", "whois.nic.run");
+
+classesPackage.put("development.run", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("development.runserver", "whois.nic.run");
+
+classesPackage.put("stackit.run", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("stackit.runserver", "whois.nic.run");
+
+classesPackage.put("servers.run", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("servers.runserver", "whois.nic.run");
+
+classesPackage.put("migration.run", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("migration.runserver", "whois.nic.run");
+
+classesPackage.put("storj.farm", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("storj.farmserver", "whois.nic.farm");
+
+
+classesPackage.put("static.land", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("static.landserver", "whois.nic.land");
+
+classesPackage.put("ravendb.community", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("ravendb.communityserver", "whois.nic.community");
+
+
+classesPackage.put("myforum.community", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("myforum.communityserver", "whois.nic.community");
+classesPackage.put("libp2p.direct", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("libp2p.directserver", "whois.nic.direct");
+
+classesPackage.put("owo.codes", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("owo.codesserver", "whois.nic.codes");
+
+
+classesPackage.put("router.management", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("router.managementserver", "whois.nic.management");
+
+
+classesPackage.put("compute.estate", "com.whoisfreaks.parsers.whoisreader.gtld.popular.colonparser.ColParser");
+classesPackage.put("compute.estateserver", "whois.nic.estate");
+classesPackage.put("1337.pictures", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("1337.picturesserver", "whois.nic.pictures");
+
+classesPackage.put("ngrok.pizza", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("ngrok.pizzaserver", "whois.nic.pizza");
+
+classesPackage.put("co.financial", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("co.financialserver", "whois.nic.financial");
+
+classesPackage.put("cloudsite.builders", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("cloudsite.buildersserver", "whois.nic.builders");
+
+classesPackage.put("co.place", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("co.placeserver", "whois.nic.place");
+
+classesPackage.put("obl.ong", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("obl.ongserver", "whois.nic.ong");
+
+classesPackage.put("clan.rip", "ccom.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("clan.ripserver", "whois.nic.rip");
+
+classesPackage.put("cloud.goog", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("cloud.googserver", "whois.nic.google");
+
+classesPackage.put("usercontent.goog", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("usercontent.googserver", "whois.nic.google");
+
+classesPackage.put("passenger-association.aero", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("passenger-association.aeroserver", "whois.aero");
+
+classesPackage.put("marketplace.aero", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("marketplace.aeroserver", "whois.aero");
+
+classesPackage.put("hanggliding.aero", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("hanggliding.aeroserver", "whois.aero");
+
+classesPackage.put("ballooning.aero", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("ballooning.aeroserver", "whois.aero");
+
+classesPackage.put("control.aero", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("control.aeroserver", "whois.aero");
+
+classesPackage.put("trainer.aero", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("trainer.aeroserver", "whois.aero");
+
+classesPackage.put("trading.aero", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("trading.aeroserver", "whois.aero");
+
+classesPackage.put("ambulance.aero", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("ambulance.aeroserver", "whois.aero");
+
+classesPackage.put("educator.aero", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("educator.aeroserver", "whois.aero");
+
+classesPackage.put("scientist.aero", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("scientist.aeroserver", "whois.aero");
+
+classesPackage.put("accident-investigation.aero", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("accident-investigation.aeroserver", "whois.aero");
+
+classesPackage.put("caa.aero", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("caa.aeroserver", "whois.aero");
+
+classesPackage.put("amusement.aero", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("amusement.aeroserver", "whois.aero");
+
+classesPackage.put("recreation.aero", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("recreation.aeroserver", "whois.aero");
+
+classesPackage.put("engineer.aero", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("engineer.aeroserver", "whois.aero");
+
+classesPackage.put("club.aero", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("club.aeroserver", "whois.aero");
+
+classesPackage.put("government.aero", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("government.aeroserver", "whois.aero");
+
+classesPackage.put("civilaviation.aero", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("civilaviation.aeroserver", "whois.aero");
+
+classesPackage.put("show.aero", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("show.aeroserver", "whois.aero");
+
+classesPackage.put("group.aero", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("group.aeroserver", "whois.aero");
+
+classesPackage.put("journal.aero", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("journal.aeroserver", "whois.aero");
+
+classesPackage.put("homebuilt.aero", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("homebuilt.aeroserver", "whois.aero");
+
+classesPackage.put("magazine.aero", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("magazine.aeroserver", "whois.aero");
+
+classesPackage.put("paragliding.aero", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("paragliding.aeroserver", "whois.aero");
+
+classesPackage.put("exchange.aero", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("exchange.aeroserver", "whois.aero");
+
+classesPackage.put("gliding.aero", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("gliding.aeroserver", "whois.aero");
+
+classesPackage.put("groundhandling.aero", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("groundhandling.aeroserver", "whois.aero");
+
+classesPackage.put("res.aero", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("res.aeroserver", "whois.aero");
+
+classesPackage.put("taxi.aero", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("taxi.aeroserver", "whois.aero");
+
+classesPackage.put("conference.aero", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("conference.aeroserver", "whois.aero");
+
+classesPackage.put("council.aero", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("council.aeroserver", "whois.aero");
+
+classesPackage.put("parachuting.aero", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("parachuting.aeroserver", "whois.aero");
+
+classesPackage.put("skydiving.aero", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("skydiving.aeroserver", "whois.aero");
+
+classesPackage.put("union.aero", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("union.aeroserver", "whois.aero");
+
+classesPackage.put("media.aero", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("media.aeroserver", "whois.aero");
+
+classesPackage.put("tech.orange", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("tech.orangeserver", "whois.nic.orange");
+
+classesPackage.put("cloudns.asia", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("cloudns.asiaserver", "whois.nic.asia");
+
+classesPackage.put("daemon.asia", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("daemon.asiaserver", "whois.nic.asia");
+
+classesPackage.put("dix.asia", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("dix.asiaserver", "whois.nic.asia");
+
+classesPackage.put("wdh.app", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("wdh.appserver", "whois.nic.app");
+
+classesPackage.put("replit.app", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("replit.appserver", "whois.nic.app");
+
+classesPackage.put("upsun.app", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("upsun.appserver", "whois.nic.app");
+
+classesPackage.put("netfy.app", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("netfy.appserver", "whois.nic.app");
+
+classesPackage.put("cyclic.app", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("cyclic.appserver", "whois.nic.app");
+
+classesPackage.put("csb.app", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("csb.appserver", "whois.nic.app");
+
+classesPackage.put("zeabur.app", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("zeabur.appserver", "whois.nic.app");
+
+classesPackage.put("encr.app", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("encr.appserver", "whois.nic.app");
+
+classesPackage.put("adaptable.app", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("adaptable.appserver", "whois.nic.app");
+
+classesPackage.put("hlx3.page", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("hlx3.pageserver", "whois.nic.google");
+
+classesPackage.put("magnet.page", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("magnet.pageserver", "whois.nic.google");
+
+classesPackage.put("codeberg.page", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("codeberg.pageserver", "whois.nic.google");
+
+classesPackage.put("plesk.page", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("plesk.pageserver", "whois.nic.google");
+
+classesPackage.put("prvcy.page", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("prvcy.pageserver", "whois.nic.google");
+
+classesPackage.put("rocky.page", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("rocky.pageserver", "whois.nic.google");
+
+classesPackage.put("aem.page", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("aem.pageserver", "whois.nic.google");
+
+classesPackage.put("pdns.page", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("pdns.pageserver", "whois.nic.google");
+
+classesPackage.put("translated.page", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("translated.pageserver", "whois.nic.google");
+
+classesPackage.put("hlx.page", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("hlx.pageserver", "whois.nic.google");
+
+classesPackage.put("toolforge.org", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("toolforge.orgserver", "whois.nic.app");
+
+classesPackage.put("author.aero", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("author.aeroserver", "whois.aero");
+
+classesPackage.put("trader.aero", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("trader.aeroserver", "whois.aero");
+
+classesPackage.put("repbody.aero", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("repbody.aeroserver", "whois.aero");
+
+classesPackage.put("research.aero", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("research.aeroserver", "whois.aero");
+
+classesPackage.put("championship.aero", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("championship.aeroserver", "whois.aero");
+
+classesPackage.put("air-traffic-control.aero", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("air-traffic-control.aeroserver", "whois.aero");
+
+classesPackage.put("air-surveillance.aero", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("air-surveillance.aeroserver", "whois.aero");
+
+classesPackage.put("student.aero", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("student.aeroserver", "whois.aero");
+
+classesPackage.put("modelling.aero", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("modelling.aeroserver", "whois.aero");
+
+classesPackage.put("catering.aero", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("catering.aeroserver", "whois.aero");
+
+classesPackage.put("accident-prevention.aero", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("accident-prevention.aero", "whois.aero");
+
+classesPackage.put("workinggroup.aero", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("workinggroup.aeroserver", "whois.aero");
+
+classesPackage.put("emergency.aero", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("emergency.aeroserver", "whois.aero");
+
+classesPackage.put("jounalist.aero", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("journalist.aeroserver", "whois.aero");
+
+classesPackage.put("works.aero", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("works.aeroserver", "whois.aero");
+
+classesPackage.put("microlight.aero", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("microlight.aeroserver", "whois.aero");
+
+classesPackage.put("entertainment.aero", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("entertainment.aeroserver", "whois.aero");
+
+classesPackage.put("crew.aero", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("crew.aeroserver", "whois.aero");
+
+classesPackage.put("aerobatic.aero", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("aerobatic.aeroserver", "whois.aero");
+
+classesPackage.put("press.aero", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("press.aeroserver", "whois.aero");
+
+classesPackage.put("dgca.aero", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("dgca.aeroserver", "whois.aero");
+
+classesPackage.put("agents.aero", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("agents.aeroserver", "whois.aero");
+
+classesPackage.put("software.aero", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("software.aeroserver", "whois.aero");
+
+classesPackage.put("aeroclub.aero", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("aeroclub.aeroserver", "whois.aero");
+
+classesPackage.put("rotorcraft.aero", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("rotorcraft.aeroserver", "whois.aero");
+
+classesPackage.put("freight.aero", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("freight.aeroserver", "whois.aero");
+
+classesPackage.put("leasing.aero", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("leasing.aeroserver", "whois.aero");
+
+classesPackage.put("12chars.pro", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("12chars.proserver", "whois.afilias.net");
+
+classesPackage.put("ngrok.pro", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("ngrok.proserver", "whois.afilias.net");
+
+classesPackage.put("barsy.pro", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("barsy.proserver", "whois.afilias.net");
+
+classesPackage.put("cloudns.pro", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("cloudns.proserver", "whois.afilias.net");
+
+classesPackage.put("hosted.app", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("hosted.appserver", "whois.nic.app");
+
+classesPackage.put("expo.app", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("expo.appserver", "whois.nic.app");
+
+classesPackage.put("webhop.info", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("webhop.infoserver", "whois.afilias.net");
+
+classesPackage.put("for-our.info", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("for-our.infoserver", "whois.afilias.net");
+
+classesPackage.put("dnsupdate.info", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("dnsupdate.infoserver", "whois.afilias.net");
+
+classesPackage.put("nsupdate.info", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("nsupdate.infoserver", "whois.afilias.net");
+
+classesPackage.put("mayfirst.info", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("mayfirst.infoserver", "whois.afilias.net");
+
+classesPackage.put("here-for-more.info", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("here-for-more.infoserver", "whois.afilias.net");
+
+classesPackage.put("barsy.info", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("barsy.infoserver", "whois.afilias.net");
+
+classesPackage.put("barrell-of-knowledge.info", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("barrell-of-knowledge.infoserver", "whois.afilias.net");
+
+classesPackage.put("dvrcam.info", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("dvrcam.infoserver", "whois.afilias.net");
+
+classesPackage.put("groks-this.info", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("groks-this.infoserver", "whois.afilias.net");
+
+classesPackage.put("forumz.info", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("forumz.infoserver", "whois.afilias.net");
+
+classesPackage.put("knowsitall.info", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("knowsitall.infoserver", "whois.afilias.net");
+
+classesPackage.put("ilovecollege.info", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("ilovecollege.infoserver", "whois.afilias.net");
+
+classesPackage.put("no-ip.info", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("no-ip.infoserver", "whois.afilias.net");
+
+classesPackage.put("selfip.info", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("selfip.infoserver", "whois.afilias.net");
+
+classesPackage.put("dynamic-dns.info", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("dynamic-dns.infoserver", "whois.afilias.net");
+
+classesPackage.put("v-info.info", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("v-info.infoserver", "whois.afilias.net");
+
+classesPackage.put("dyndns.info", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("dyndns.infoserver", "whois.afilias.net");
+
+classesPackage.put("cloudns.info", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("cloudns.infoserver", "whois.afilias.net");
+
+classesPackage.put("flutterflow.app", "com.whoisfreaks.parsers.whoisreader.dns.DnsParser");
+classesPackage.put("flutterflow.appserver", "whois.nic.app");

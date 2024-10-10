@@ -1,0 +1,54 @@
+{
+    "status": true,
+    "domain_name": "webstar.ug",
+    "whois_server": "https://whois.co.ug/check.php",
+    "domain_registered": "yes",
+    "create_date": "2012-06-05",
+    "update_date": "2023-11-15",
+    "expiry_date": "2024-11-15",
+    "registrant_contact": {
+        "company": "webstar",
+        "street": "Kampala",
+        "zip_code": "24685",
+        "country_name": "Uganda",
+        "country_code": "UG",
+        "email_address": "registrar@i3c.co.ug"
+    },
+    "administrative_contact": {
+        "name": "Fred Abu",
+        "company": "Webstar",
+        "street": "Kampala",
+        "zip_code": "24685",
+        "country_name": "Uganda",
+        "country_code": "UG",
+        "email_address": "fabunyanga@gmail.com",
+        "phone": "0782187844"
+    },
+    "technical_contact": {
+        "name": "Charles Musisi",
+        "street": "Computer Frontiers InternationalPlot 6B Windsor LoopP.O. Box 12510 - Kampala",
+        "city": "Kampala",
+        "country_name": "Uganda",
+        "country_code": "UG",
+        "email_address": "cmusisi@cfi.co.ug",
+        "phone": "+256 31 230 1800",
+        "fax": "+256 41 434 0456"
+    },
+    "billing_contact": {
+        "name": "Fred Abu",
+        "company": "Webstar",
+        "street": "Kampala",
+        "zip_code": "24685",
+        "country_name": "Uganda",
+        "country_code": "UG",
+        "email_address": "fabunyanga@gmail.com",
+        "phone": "0782187844"
+    },
+    "name_servers": [
+        "ns14.my-control-panel.com",
+        "ns13.my-control-panel.com"
+    ],
+    "domain_status": [
+        "active"
+    ]
+}
